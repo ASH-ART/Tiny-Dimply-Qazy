@@ -17,6 +17,12 @@ A 10.5u 35% keyboard PCB. A tribute to Lazydesigner's Dimple, and tominabox1 and
 * Meme cut
 * Other stuff like diodes (the cool ones)
 
+## Todo
+- [ ] Confirm prototype works
+- [ ] Generic silk
+- [ ] Misc. cleanups
+- [ ] Use git submodule for parts lib
+
 ## Disclaimer
 
 This PCB hasn't been tested working yet. The members of the PCB development team are not liable if you end up with a non-functional pcb. Order at your own risk. Support will not be provided but pull requests will be reviewed and possibly accepted.
