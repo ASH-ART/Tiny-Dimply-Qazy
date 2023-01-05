@@ -4200,7 +4200,7 @@
       (reference "MX31") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
     )
     (path "/e05344b5-a96e-4473-b41e-e9f45716bf1d/9eb811ff-df41-4aff-9c53-55aa6a0cf461"
-      (reference "MX32") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")
+      (reference "MX32") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1.25U-NoLED")
     )
     (path "/e05344b5-a96e-4473-b41e-e9f45716bf1d/9a907c15-c755-48c3-9aa7-c89e8e92fdc9"
       (reference "MX33") (unit 1) (value "MX-NoLED") (footprint "MX_Only:MXOnly-1U-NoLED")

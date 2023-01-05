@@ -1754,7 +1754,7 @@
     (property "Value" "MX-NoLED" (id 1) (at 152.7811 132.8579 90)
       (effects (font (size 0.508 0.508)) (justify left))
     )
-    (property "Footprint" "MX_Only:MXOnly-1U-NoLED" (id 2) (at 156.591 149.098 0)
+    (property "Footprint" "MX_Only:MXOnly-1.25U-NoLED" (id 2) (at 156.591 149.098 0)
       (effects (font (size 1.524 1.524)) hide)
     )
     (property "Datasheet" "" (id 3) (at 156.591 149.098 0)
