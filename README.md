@@ -3,12 +3,12 @@
 A 10.5u 35% keyboard PCB. A tribute to Lazydesigner's Dimple, and tominabox1 and whydobearsexplod's QAZ.
 
 ## Layout
-<img  width="800" alt="kle_tdq" src="https://user-images.githubusercontent.com/49586534/210872461-ca7677b1-6d80-40d8-9a99-70abd4d79e44.png">
+<img width="800" alt="KLE preview" src="https://user-images.githubusercontent.com/882152/210881131-d41e3cd1-d37a-4d03-9a7a-84fc55252a3e.png">
 <a href="http://www.keyboard-layout-editor.com/#/gists/85e2e431b75c7d8e9e7332ab9f5636bb">Link<a>
   
 ## Renders
-![tdq_2](https://user-images.githubusercontent.com/49586534/210874281-916bd163-040a-4e73-a414-fa3bf8387a80.PNG)
-![tdq_1](https://user-images.githubusercontent.com/49586534/210874279-03d6de8d-3f94-4db0-b950-f207a80621fc.PNG)
+![Top view](https://user-images.githubusercontent.com/882152/210881107-c5bf7417-6601-46c0-9f4c-8ef368f824ad.png)
+![Bottom view](https://user-images.githubusercontent.com/882152/210881123-10c03a2b-5c70-4aaf-8736-7e49ea53e007.png)
 
 ## Specs
 * STM32 F072 MCU
@@ -23,7 +23,7 @@ This PCB hasn't been tested working yet. The members of the PCB development team
 
 ## License
 
-This project is released under the GPL v3 License. For the license, please refer to the LICENCE file.
+This project is released under the GPL v3 License. Please refer to the LICENCE file.
   
 ## Credits
   
