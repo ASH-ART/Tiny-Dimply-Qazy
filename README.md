@@ -25,6 +25,7 @@ WIP; awaiting second round of prototyping.
 - [ ] QoL improvements and case fit
 - [ ] Generic silk with revision number
 - [ ] Misc. cleanups
+- [ ] A la carte gerbers for connector options (JST or EZMate)
 - [ ] Use git submodule for parts lib
 
 ## Disclaimer
