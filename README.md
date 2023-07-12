@@ -6,10 +6,13 @@ A 10.5u 35% keyboard PCB. A tribute to Lazydesigner's Dimple, and tominabox1 and
 WIP; awaiting second round of prototyping.
 
 ## Layout
-<img width="800" alt="KLE preview" src="https://user-images.githubusercontent.com/882152/210881131-d41e3cd1-d37a-4d03-9a7a-84fc55252a3e.png">
+<img width="800" alt="KLE preview" src="./tdq-kle.png">
 <a href="http://www.keyboard-layout-editor.com/#/gists/85e2e431b75c7d8e9e7332ab9f5636bb">Link<a>
-  
+
 ## Renders
+
+TODO: Add updated ones after verification
+
 ![Top view](https://user-images.githubusercontent.com/882152/210881107-c5bf7417-6601-46c0-9f4c-8ef368f824ad.png)
 ![Bottom view](https://user-images.githubusercontent.com/882152/210881123-10c03a2b-5c70-4aaf-8736-7e49ea53e007.png)
 
@@ -22,9 +25,9 @@ WIP; awaiting second round of prototyping.
 
 ## Todo
 - [x] Confirm prototype works electronically
-- [ ] QoL improvements and case fit
-- [ ] Generic silk with revision number
-- [ ] Misc. cleanups
+- [x] QoL improvements and case fit
+- [x] Generic silk with revision number
+- [x] Misc. cleanups
 - [ ] A la carte gerbers for connector options (JST or EZMate)
 - [ ] Use git submodule for parts lib
 
@@ -35,8 +38,9 @@ This PCB has been tested to work _electronically_, but requires further prototyp
 ## License
 
 This project is released under the GPL v3 License. Please refer to the LICENCE file.
-  
+
 ## Credits
-  
-PeppyToad for the layout and pcb help and firmware, ash for the scuffed pcb, lazydesigner, tominabox1, whydobearsexplod and Alas for the inspiration.
-Consider bhj
+
+PeppyToad for the layout and pcb help and firmware, ash for the scuffed pcb; lazydesigner, tominabox1, whydobearsexplod and Alas for the inspiration.
+Consider BHJ (I hate Bart Harley Jarvis!)
+
